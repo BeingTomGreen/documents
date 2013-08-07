@@ -1,4 +1,6 @@
-## Handy contracts/legal files etc
+## Handy documents
+
+Just some documents I have found handy in the past. These are all based on existing templates, obviously I have/will update them to suit my needs.
 
 ### Contract.md
 
